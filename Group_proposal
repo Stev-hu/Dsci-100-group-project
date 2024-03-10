@@ -1,1 +1,6 @@
+Introduction
 
+Tennis is a sport, that like many others, depends on a lot of things to see who wins. It's a combination of technique, speed, and strength, that all reflect how 
+good a player is at tennis. However, this makes it difficult to predict which player will win, and is especially difficult when looking at the best tennis players,
+that all have different capabilities. This project will aim to determine which tennis player will win, given a variety of stats like age, double faults, height, etc. 
+It will be determined using the dataset for the top 500 best tennis players from 2017 to 2019.
